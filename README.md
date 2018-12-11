@@ -2,12 +2,12 @@
 
 ### Overview
 The bamazon application simulates amazon.com that runs on the terminal using the following two commands:
-Running ```node bamazonCustomer.js``` let's you view and purchase available products.
-Running ```node bamazonManager.js``` let's you update the inventory
+* Running ```node bamazonCustomer.js``` let's you view and purchase available products.
+* Running ```node bamazonManager.js``` let's you update the inventory
 
 ### Installation
 ```
-git clone
+git clone https://github.com/tedi0722/bamazon.git
 npm install
 ```
 
