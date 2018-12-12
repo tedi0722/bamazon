@@ -17,12 +17,16 @@ npm install
 * MySql
 
 ### ScreenShots
+```node bamazonCustomer.js```
 ![bamazoncustomer1](https://user-images.githubusercontent.com/40690696/49890589-4caeac80-fdf9-11e8-8c65-f83f29232cd5.PNG)
 
+```node bamazonCustomer.js```
 ![bamazoncustomer2](https://user-images.githubusercontent.com/40690696/49890590-4caeac80-fdf9-11e8-813d-a34b1e6d7f04.PNG)
 
+```node bamazonManager.js```
 ![bamazonmanager1](https://user-images.githubusercontent.com/40690696/49890591-4caeac80-fdf9-11e8-8267-cea45afefebb.PNG)
 
+```node bamazonManager.js```
 ![bamazonmanager2](https://user-images.githubusercontent.com/40690696/49890588-4c161600-fdf9-11e8-9cba-48a143759e16.PNG)
 
 
