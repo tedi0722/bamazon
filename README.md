@@ -17,18 +17,14 @@ npm install
 * MySql
 
 ### ScreenShots
+![bamazoncustomer1](https://user-images.githubusercontent.com/40690696/49890589-4caeac80-fdf9-11e8-8c65-f83f29232cd5.PNG)
 
-#### View Products
-![screenshot 2](https://user-images.githubusercontent.com/40690696/49011779-2cf66380-f12c-11e8-97ba-215d10b01806.jpg)
+![bamazoncustomer2](https://user-images.githubusercontent.com/40690696/49890590-4caeac80-fdf9-11e8-813d-a34b1e6d7f04.PNG)
 
-#### Low Inventory
-![screenshot 20](https://user-images.githubusercontent.com/40690696/49011777-2cf66380-f12c-11e8-94fd-611c9fdc472c.jpg)
+![bamazonmanager1](https://user-images.githubusercontent.com/40690696/49890591-4caeac80-fdf9-11e8-8267-cea45afefebb.PNG)
 
-#### Purchase Products
-![screenshot 6](https://user-images.githubusercontent.com/40690696/49011778-2cf66380-f12c-11e8-911c-7140d304be6d.jpg)
+![bamazonmanager2](https://user-images.githubusercontent.com/40690696/49890588-4c161600-fdf9-11e8-9cba-48a143759e16.PNG)
 
-#### Manager Portal
-![screenshot 12](https://user-images.githubusercontent.com/40690696/49011781-2d8efa00-f12c-11e8-96ef-82a592f13c3c.jpg)
 
 ### Demo
 #### Demo of the app working can be found here:
